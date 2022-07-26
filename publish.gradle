@@ -1,0 +1,18 @@
+ext {
+    PUBLISH_GROUP_ID = 'io.github.toru0239'
+    PUBLISH_VERSION = '0.0.1'
+    PUBLISH_ARTIFACT_ID = 'skeletondomain'
+    PUBLISH_DESCRIPTION = 'Domain segregation Android Library'
+    PUBLISH_URL = 'https://github.com/TORU0239/SkeletonDomain'
+    PUBLISH_LICENSE_NAME = 'Apache License'
+    PUBLISH_LICENSE_URL ='https://github.com/TORU0239/SkeletonDomain/blob/main/LICENSE'
+    PUBLISH_DEVELOPER_ID = 'TORU0239'
+    PUBLISH_DEVELOPER_NAME = 'Wonyoung Choi'
+    PUBLISH_DEVELOPER_EMAIL = 'blueocean239@gmail.com'
+    PUBLISH_SCM_CONNECTION =
+            'scm:git:github.com/TORU0239/SkeletonDomain.git'
+    PUBLISH_SCM_DEVELOPER_CONNECTION =
+            'scm:git:ssh://github.com:TORU0239/SkeletonDomain.git'
+    PUBLISH_SCM_URL =
+            'https://github.com/TORU0239/SkeletonDomain/tree/master'
+}
