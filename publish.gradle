@@ -1,6 +1,6 @@
 ext {
     PUBLISH_GROUP_ID = 'io.github.toru0239'
-    PUBLISH_VERSION = '0.0.2'
+    PUBLISH_VERSION = '0.0.2.1'
     PUBLISH_ARTIFACT_ID = 'skeletondomain'
     PUBLISH_DESCRIPTION = 'Domain segregation Android Library'
     PUBLISH_URL = 'https://github.com/TORU0239/SkeletonDomain'
