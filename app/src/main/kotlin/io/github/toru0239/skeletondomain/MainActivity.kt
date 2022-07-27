@@ -2,10 +2,12 @@ package io.github.toru0239.skeletondomain
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
-import kotlinx.coroutines.*
 import io.github.toru0239.skeletoncore.repository.impl.ProductRepositoryImpl
 import io.github.toru0239.skeletoncore.usecase.ProductUseCase
 import io.github.toru0239.skeletoncore.usecase.impl.ProductUseCaseImpl
+import kotlinx.coroutines.CoroutineScope
+import kotlinx.coroutines.Dispatchers
+import kotlinx.coroutines.launch
 
 class MainActivity : AppCompatActivity() {
 
